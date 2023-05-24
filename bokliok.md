@@ -8,11 +8,11 @@ title: 目錄
 
 ## Bo̍k-lio̍k 目錄
 - [自序](./chheh/?page=3){:target="_blank"}
-- [凡例](./chheh/?page=3){:target="_blank"}
+- [凡例](./chheh/?page=6){:target="_blank"}
 - [本書符號解及振假名注意（這本冊內底ê符號kap台語假名）](./chheh/?page=8){:target="_blank"}
-- [土人との對話に就ての注意（Kap在地人講話ài注意ê代誌）](./chheh/?page=3){:target="_blank"}
+- [土人との對話に就ての注意（Kap在地人講話ài注意ê代誌）](./chheh/?page=11){:target="_blank"}
 - [目錄](./chheh/?page=13){:target="_blank"}
-- [語彙篇](./chheh/?page=3){:target="_blank"}
+- [語彙篇](./chheh/?page=23){:target="_blank"}
   - [第一章 宇宙](./chheh/?page=23){:target="_blank"}
   - [第二章 五行](./chheh/?page=24){:target="_blank"}
   - [第三章 人間](./chheh/?page=32){:target="_blank"}
